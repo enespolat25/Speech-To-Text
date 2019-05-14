@@ -1,3 +1,3 @@
 # SpeechToText
 
-Android Text to Speech
+Android Speech to Text 
